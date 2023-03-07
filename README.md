@@ -27,6 +27,7 @@ Current limitations :
 ## Unity Client:
 
 ### This motion tracking interface was built to be work with any unity game, but due to current GPU limitations caused by the YOLOv7 model, it struggles to work with high res and dynamic physics based games. The model works best with the character skeletal rig and IK constraint of the character is suitable to control the characters using relative motion data. 
+<img width="494" alt="image" src="https://user-images.githubusercontent.com/60317553/223290837-2786584f-bd7c-42da-aae5-8dca7aaae7a1.png">
 
 
 Sources : 
